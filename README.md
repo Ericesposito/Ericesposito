@@ -1,8 +1,21 @@
-### Hi there 👋
+<h2 align="center">
+  Hi there, I'm Eric, a Full Stack Engineer
+</h2>
 
 <p align="center">
-  Hello there, I'm Eric Esposito, A Full Stack Engineer
+  When I'm not rebuilding my 3D Printer 🖨️, doing yoga 🧘‍♂️, or watching a film 📽️...
 </p>
+
+<p align="center">
+  I'm probably building something 💻 using some of these: 
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,jest,html,css,tailwind,sass,postgres,mongodb,prisma,webpack,vite,git,github,githubactions,aws,docker,kubernetes,prometheus,grafana&perline=13" />
+  </a>
+</p>
+
 <!--
 **Ericesposito/Ericesposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
