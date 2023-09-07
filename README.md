@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
+  Hello there, I'm Eric Esposito, A Full Stack Engineer
+</p>
 <!--
 **Ericesposito/Ericesposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
