@@ -3,10 +3,10 @@
 </h2>
 
 <p align="center">
-  More about me!
+  But here is some more about me!
 </p>
 
-<ul align="center">
+<ul align="center" style="list-style-type: none">
   <li>🇺🇸🇨🇦 Americanadian Citizen</li>
   <li>🖨️ Rebuilder of disobedient 3D printers</li>
   <li>🎸 Slapper of Bass</li>
