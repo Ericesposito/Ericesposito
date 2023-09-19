@@ -1,9 +1,9 @@
 <h2 align="left">
-  Hi there, I'm Eric, a Full Stack Engineer
+  Hi there! I'm Eric, a Full Stack Engineer
 </h2>
 
 <p align="left">
-  But here is some more about me:
+  But here is some more about me...
 </p>
 
 <ul align="center" style="list-style-type:none;">
