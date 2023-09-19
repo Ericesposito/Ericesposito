@@ -3,7 +3,7 @@
 </h2>
 
 <p align="left">
-  But here is some more about me...
+  But here are some other things about me...
 </p>
 
 <ul align="center" style="list-style-type:none;">
