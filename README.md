@@ -3,15 +3,18 @@
 </h2>
 
 <p align="center">
-  When I'm not rebuilding my 3D Printer 🖨️, doing yoga 🧘‍♂️, or watching a film 📽️...
+  More about me!
 </p>
 
-<ul>
-  <li>Slapper of Bass</li>
-  <li>Watcher of films</li>
-  <li>Learner of languages</li>
-  <li>Road-tripper</li>
-  <li>Intermediate-level shapeshifter hwile on a Yoga mat (Dog, Cat & Chair)</li>
+<ul align="center">
+  <li>🇺🇸🇨🇦 Americanadian Citizen</li>
+  <li>🖨️ Rebuilder of disobedient 3D printers</li>
+  <li>🎸 Slapper of Bass</li>
+  <li>📽️ Watcher of cinematic Davids (Lean, Fincher, Lynch or Cronenberg</li>
+  <li>🗣️ Learner of languages (German, Spanish & Mandarin)</li>
+  <li>🥅 Almost-kind-of-semi-pro ice hockey goaltender</li>
+  <li>🚙 Road-tripper</li>
+  <li>🧘 Intermediate-level shapeshifter while on a Yoga mat (Dog, Cat & Chair)</li>
 </ul>
 
 <p align="center">
