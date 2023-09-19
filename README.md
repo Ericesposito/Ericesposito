@@ -1,27 +1,27 @@
-<h2 align="center">
+<h2 align="left">
   Hi there, I'm Eric, a Full Stack Engineer
 </h2>
 
-<p align="center">
-  But here is some more about me!
+<p align="left">
+  But here is some more about me:
 </p>
 
-<ul align="center" style="list-style-type: none">
-  <li>🇺🇸🇨🇦 Americanadian Citizen</li>
-  <li>🖨️ Rebuilder of disobedient 3D printers</li>
-  <li>🎸 Slapper of Bass</li>
-  <li>📽️ Watcher of cinematic Davids (Lean, Fincher, Lynch or Cronenberg</li>
-  <li>🗣️ Learner of languages (German, Spanish & Mandarin)</li>
-  <li>🥅 Almost-kind-of-semi-pro ice hockey goaltender</li>
-  <li>🚙 Road-tripper</li>
-  <li>🧘 Intermediate-level shapeshifter while on a Yoga mat (Dog, Cat & Chair)</li>
+<ul align="center" style="list-style-type:none;">
+  <li align="left">🇺🇸🇨🇦 - Americanadian Citizen</li>
+  <li align="left">🛠️🖨️ - Rebuilder of disobedient 3D printers</li>
+  <li align="left">👋🎸 - Slapper of Bass</li>
+  <li align="left">🎞️📽️ - Watcher of cinematic Davids (Lean, Fincher, Lynch or Cronenberg)</li>
+  <li align="left">🗣️🙉 - Learner of languages (German, Spanish & Mandarin)</li>
+  <li align="left">🫷🥅 - Almost-kind-of-semi-pro ice hockey goaltender</li>
+  <li align="left">🚦🚙 - Road-tripper (NYC -> SF -> Canada)</li>
+  <li align="left">🧘👹 - Intermediate-level shapeshifter while on a Yoga mat (Dog, Cat & Chair)</li>
 </ul>
 
-<p align="center">
-  I'm probably building something 💻 using some of these: 
+<p align="left">
+  When I'm not busy with one of my hobbies, I'm probably building something using some of these: 
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,postman,jest,html,css,tailwind,sass,postgres,mongodb,prisma,webpack,vite,git,github,githubactions,aws,docker,kubernetes,prometheus,grafana&perline=13" />
   </a>
