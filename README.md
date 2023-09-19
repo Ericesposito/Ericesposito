@@ -6,6 +6,14 @@
   When I'm not rebuilding my 3D Printer 🖨️, doing yoga 🧘‍♂️, or watching a film 📽️...
 </p>
 
+<ul>
+  <li>Slapper of Bass</li>
+  <li>Watcher of films</li>
+  <li>Learner of languages</li>
+  <li>Road-tripper</li>
+  <li>Intermediate-level shapeshifter hwile on a Yoga mat (Dog, Cat & Chair)</li>
+</ul>
+
 <p align="center">
   I'm probably building something 💻 using some of these: 
 </p>
