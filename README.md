@@ -1,3 +1,4 @@
+
 <h2 align="left">
   Hi there! I'm Eric, a Full Stack Engineer
 </h2>
@@ -7,6 +8,7 @@
 </p>
 
 <ul align="center" style="list-style-type:none;">
+  <li align="left">🇺🇸🇨🇦 => Americanadian Citizen</li>
   <li align="left">🇺🇸🇨🇦 => Americanadian Citizen</li>
   <li align="left">🛠️🖨️ => Rebuilder of disobedient 3D printers</li>
   <li align="left">👋🎸 => Slapper of Bass</li>
