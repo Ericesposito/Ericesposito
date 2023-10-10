@@ -16,7 +16,7 @@
   <li align="left">🫷🥅 => Almost-kind-of-semi-pro ice hockey goaltender</li>
   <li align="left">🚘🛣️ => Road-tripper { destinations: ['Montréal', 'NYC', 'Dallas', 'LA', 'Vancouver', 'Toronto'] }</li>
   <li align="left">🧘👹 => Intermediate-level shapeshifter while on a Yoga mat { forms: ['Dog', 'Cat', 'Chair'] }</li>
-</ul>
+</ul> 
 
 <p align="left">
   When I'm not busy with one of my hobbies, I'm probably building something using some of these: 
