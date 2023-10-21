@@ -1,7 +1,7 @@
 
 <h2 align="left">
   Hi there! I'm Eric (He/Him), a Full Stack Engineer
-</h2>
+</h2> 
 
 <p align="left">
   But here are some other things about me...
