@@ -11,7 +11,7 @@
   <li align="left">🇺🇸🇨🇦 => Americanadian Citizen</li>
   <li align="left">🛠️🖨️ => Rebuilder of disobedient 3D printers</li>
   <li align="left">👋🎸 => Slapper of Bass</li>
-  <li align="left">🎞️📽️ => Watcher of films { filmDavids: ['Lean', 'Lowery', 'Lynch', 'Fincher', 'Cronenberg'] }</li>
+  <li align="left">🎞️📽️ => Watcher of films { davids: ['Lean', 'Lowery', 'Lynch', 'Fincher', 'Cronenberg'] }</li>
   <li align="left">🗣️🙉 => Language learner { languages: ['German', 'Spanish', 'Mandarin'] }</li>
   <li align="left">🫷🥅 => Almost-kind-of-semi-pro ice hockey goaltender</li>
   <li align="left">🚘🛣️ => Road-tripper { destinations: ['Montréal', 'NYC', 'Dallas', 'LA', 'Vancouver', 'Toronto'] }</li>
