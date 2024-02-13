@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,anaconda,flask,nodejs,express,react,nextjs,redux,pug,html,css,tailwind,sass,styledcomponents,jest,latex,solidity,postgres,mysql,sequelize,mongodb,dynamodb,prisma,aws,docker,kubernetes,webpack,vite,postman,git,github,githubactions,prometheus,grafana&perline=18" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,anaconda,flask,nodejs,express,react,nextjs,redux,pug,html,css,tailwind,sass,styledcomponents,jest,solidity,postgres,mysql,sequelize,mongodb,dynamodb,prisma,aws,docker,kubernetes,webpack,vite,postman,git,github,githubactions,prometheus,grafana,solidity&perline=18" />
   </a>
 </p>
 
