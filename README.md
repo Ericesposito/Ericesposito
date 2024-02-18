@@ -13,7 +13,7 @@
   <li align="left">👋🎸 => Slapper of Bass</li>
   <li align="left">🎞️📽️ => Watcher of films { davids: ['Lean', 'Lowery', 'Lynch', 'Fincher', 'Cronenberg'] }</li>
   <li align="left">🗣️🙉 => Language learner { languages: ['German', 'Spanish', 'Mandarin'] }</li>
-  <li align="left">🫷🥅 => UC Berkeley Starting Goalie</li>
+  <li align="left">🫷🥅 => UC Berkeley Former Starting Goalie</li>
   <li align="left">🚘🛣️ => Road-tripper { destinations: ['Montréal', 'NYC', 'Dallas', 'LA', 'Vancouver', 'Toronto'] }</li>
   <li align="left">🧘👹 => Intermediate-level shapeshifter while on a Yoga mat { forms: ['Dog', 'Cat', 'Chair'] }</li>
 </ul> 
