@@ -12,7 +12,7 @@
   <li align="left">🛠️🖨️ => Rebuilder of disobedient 3D printers</li>
   <li align="left">👋🎸 => Slapper of Bass and Picker of Guitar</li>
   <li align="left">🎞️📽️ => Watcher of films { davids: ['Lean', 'Lowery', 'Lynch', 'Fincher', 'Cronenberg'] }</li>
-  <li align="left">🗣️🙉 => Learner of languages { languages: ['German', 'Spanish', 'Mandarin'] }</li>
+  <li align="left">🗣️🙉 => Learner of languages { languages: ['German', 'French', 'Spanish', 'Mandarin'] }</li>
   <li align="left">🫷🥅 => Former ACHA D2 Starting Goaltender for Cal </li>
   <li align="left">🚘🛣️ => Road-tripper { destinations: ['Montréal', 'NYC', 'Dallas', 'LA', 'Vancouver', 'Toronto'] }</li>
   <li align="left">🧘👹 => Intermediate-level shapeshifter while on a Yoga mat { forms: ['Dog', 'Cat', 'Chair'] }</li>
@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,anaconda,flask,nodejs,express,react,nextjs,redux,cpp,dart,flutter,pug,html,css,tailwind,sass,styledcomponents,jest,solidity,postgres,mysql,sequelize,mongodb,dynamodb,prisma,graphql,aws,docker,kubernetes,webpack,vite,postman,linux,vim,git,github,githubactions,prometheus,grafana,latex&perline=21" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,anaconda,flask,fastapi,jquery,nodejs,express,alpinejs,solidjs,react,nextjs,redux,astro,cpp,dart,flutter,pug,htmx,html,css,tailwind,sass,styledcomponents,jest,solidity,postgres,mysql,sequelize,mongodb,dynamodb,prisma,graphql,aws,docker,kubernetes,webpack,vite,postman,linux,vim,git,github,githubactions,prometheus,grafana,latex&perline=24" />
   </a>
 </p>
 
